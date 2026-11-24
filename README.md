@@ -118,6 +118,9 @@ Fake_News_Analyzer/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+├── analyzer.png
+├── evaluation.png
+├── homepage.png
 ```
 
 ## 🚀 Installation and Setup
