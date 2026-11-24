@@ -1,0 +1,4 @@
+Experiment,Original Records,Unique Records,Test Samples,Accuracy (%),ROC-AUC
+headline,44889,38681,7737,93.59,0.9836
+body,44183,38313,7663,98.28,0.9982
+full_text,44889,38826,7766,98.64,0.9987

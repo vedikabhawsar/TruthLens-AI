@@ -1,0 +1,51 @@
+{
+    "best_model": "Logistic Regression",
+    "accuracy": 0.9871233582281741,
+    "roc_auc": 0.9987895272082786,
+    "original_dataset_size": 44898,
+    "dataset_size": 38826,
+    "duplicates_removed": 6063,
+    "ambiguous_records_removed": 0,
+    "test_size": 7766,
+    "confusion_matrix": [
+        [
+            3513,
+            67
+        ],
+        [
+            33,
+            4153
+        ]
+    ],
+    "classification_report": {
+        "Fake": {
+            "precision": 0.9906937394247038,
+            "recall": 0.9812849162011174,
+            "f1-score": 0.9859668818411451,
+            "support": 3580.0
+        },
+        "Real": {
+            "precision": 0.9841232227488151,
+            "recall": 0.9921165790731008,
+            "f1-score": 0.9881037354270759,
+            "support": 4186.0
+        },
+        "accuracy": 0.9871233582281741,
+        "macro avg": {
+            "precision": 0.9874084810867595,
+            "recall": 0.986700747637109,
+            "f1-score": 0.9870353086341105,
+            "support": 7766.0
+        },
+        "weighted avg": {
+            "precision": 0.9871521243326011,
+            "recall": 0.9871233582281741,
+            "f1-score": 0.9871186805934895,
+            "support": 7766.0
+        }
+    },
+    "model_comparison": {
+        "Logistic Regression": 0.9871233582281741,
+        "Naive Bayes": 0.9394797836724182
+    }
+}

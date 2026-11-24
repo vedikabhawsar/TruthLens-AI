@@ -1,0 +1,21 @@
+{
+    "subject_bias_test": {
+        "accuracy": 100.0,
+        "observation": "Subject categories perfectly separated labels."
+    },
+    "political_subset_test": {
+        "fake_records": 6831,
+        "real_records": 11216,
+        "unique_records": 18047,
+        "test_samples": 3610,
+        "accuracy": 97.37,
+        "balanced_accuracy": 96.88,
+        "roc_auc": 0.9967
+    },
+    "limitations": [
+        "Evaluation uses the original source dataset.",
+        "Random train-test splitting was used.",
+        "Publisher-specific patterns may affect results.",
+        "Independent external dataset validation is pending."
+    ]
+}
