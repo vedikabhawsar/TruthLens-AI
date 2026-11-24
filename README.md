@@ -26,6 +26,17 @@ The project integrates a trained Machine Learning pipeline with an interactive F
 - Dataset quality analysis.
 - Text feature comparison experiments.
 - Responsive web interface.
+- 
+- ## 🖥️ Project Screenshots
+
+### Homepage
+![TruthLens AI Homepage](homepage.png)
+
+### News Analyzer
+![News Analyzer](analyzer.png)
+
+### Model Evaluation
+![Model Evaluation](evaluation.png)
 
 ## 🛠️ Technology Stack
 
